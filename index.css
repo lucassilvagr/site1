@@ -1,0 +1,79 @@
+h1{
+    background-color: rgba(0, 0, 0, 0.719);
+    font-family:serif; 
+    margin: 20px;
+    padding: 20px; 
+    border: 5px double rgb(255, 255, 255);
+    color: rgb(209, 209, 209);
+    border-radius: 50px;
+    
+}
+
+
+h4 {
+border: 4px double rgb(255, 255, 255);
+margin: auto;
+background-color: rgba(0, 0, 0, 0.568);
+color: rgb(209, 209, 209);
+border-radius: 5px;
+text-align-last: center;
+height: auto;
+width: 75px;
+}
+
+h3{
+    border: 4px double rgba(255, 255, 255, 0.568);
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.568);
+    color: rgb(209, 209, 209);
+    border-radius: 5px;
+    text-align-last: center;
+    width: 100px;
+}
+h1{
+text-align-last: center;
+font-family: FreeMono;
+
+}
+body {
+
+background-image: url(https://png.pngtree.com/background/20220720/original/pngtree-light-gray-background-texture-picture-image_1684251.jpg);
+
+}
+img {    
+border: 4px double rgb(255, 255, 255);
+margin:auto;
+background-color: rgb(0, 0, 0);
+color: white;
+border-radius: 5px;
+text-align: center;
+display: block;
+}
+p {
+    text-align-last:center;}
+
+h2{
+
+text-align: center;
+}
+column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+  }
+
+  a{
+    border: 4px double rgb(255, 255, 255);
+    margin:auto;
+    background-color: rgb(34, 30, 30);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+     width: 100px;
+     cursor: pointer;
+  }
